@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 630" width="900" height="630">
+  <defs>
+    <pattern id="dg" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="0.8" cy="0.8" r="0.8" fill="#161b22"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="630" fill="#010409"/>
+  <rect width="900" height="630" fill="url(#dg)"/>
+  <rect x="0" y="0" width="3" height="630" fill="#00c8ff"/>
+
+  <!-- Header -->
+  <text x="20" y="32"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#484f58" letter-spacing="3">ENGINEERING MILESTONES</text>
+  <line x1="20" y1="44" x2="880" y2="44" stroke="#161b22" stroke-width="1"/>
+
+  <!-- Spine — centered between left column (ends x=360) and right column (starts x=400) -->
+  <line x1="380" y1="98" x2="380" y2="578" stroke="#21262d" stroke-width="1"/>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M0 · FRONTEND SYSTEMS · y_base=60
+       node cy=98  cat y=78  title y=100  chip y=74  chip_text y=85  impact y=118
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="98" r="5" fill="#010409" stroke="#f0883e" stroke-width="1.5"/>
+  <text x="360" y="78" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#f0883e" letter-spacing="2">FRONTEND SYSTEMS</text>
+  <text x="360" y="100" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">RxJS Reactive Patterns &amp; React Discipline</text>
+  <rect x="400" y="74" width="34" height="16" rx="3" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="85" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#f0883e">RxJS</text>
+  <rect x="439" y="74" width="72" height="16" rx="3" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="445" y="85" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#f0883e">Observables</text>
+  <rect x="516" y="74" width="61" height="16" rx="3" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="522" y="85" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#f0883e">Operators</text>
+  <rect x="582" y="74" width="39" height="16" rx="3" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="588" y="85" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#f0883e">React</text>
+  <rect x="626" y="74" width="39" height="16" rx="3" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="632" y="85" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#f0883e">Hooks</text>
+  <rect x="670" y="74" width="88" height="16" rx="3" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="676" y="85" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#f0883e">Effect Hygiene</text>
+  <text x="400" y="118"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">Reactive modeling over ad-hoc state; corrects AI-generated anti-patterns</text>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M1 · TYPE SYSTEMS · y_base=140
+       node cy=178  cat y=158  title y=180  chip y=154  chip_text y=165  impact y=198
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="178" r="5" fill="#010409" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="360" y="158" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#3fb950" letter-spacing="2">TYPE SYSTEMS</text>
+  <text x="360" y="180" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">Strict TypeScript Engineering</text>
+  <rect x="400" y="154" width="66" height="16" rx="3" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="165" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#3fb950">TypeScript</text>
+  <rect x="471" y="154" width="72" height="16" rx="3" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="477" y="165" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#3fb950">Type Guards</text>
+  <rect x="548" y="154" width="83" height="16" rx="3" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="554" y="165" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#3fb950">Branded Types</text>
+  <rect x="636" y="154" width="56" height="16" rx="3" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="642" y="165" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#3fb950">Generics</text>
+  <rect x="697" y="154" width="56" height="16" rx="3" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="703" y="165" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#3fb950">Zero-Any</text>
+  <text x="400" y="198"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">Zero-any policy enforced; eliminates runtime type errors at the source</text>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M2 · BACKEND ARCHITECTURE · y_base=220
+       node cy=258  cat y=238  title y=260  chip y=234  chip_text y=245  impact y=278
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="258" r="5" fill="#010409" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="360" y="238" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#58a6ff" letter-spacing="2">BACKEND ARCHITECTURE</text>
+  <text x="360" y="260" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">Enterprise Node.js &amp; Dependency Injection</text>
+  <rect x="400" y="234" width="45" height="16" rx="3" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="245" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#58a6ff">NestJS</text>
+  <rect x="450" y="234" width="77" height="16" rx="3" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="456" y="245" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#58a6ff">DI Container</text>
+  <rect x="532" y="234" width="66" height="16" rx="3" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="538" y="245" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#58a6ff">Decorators</text>
+  <rect x="603" y="234" width="77" height="16" rx="3" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="609" y="245" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#58a6ff">Module Graph</text>
+  <rect x="685" y="234" width="83" height="16" rx="3" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="691" y="245" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#58a6ff">Microservices</text>
+  <text x="400" y="278"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">Transport-agnostic service layers for distributed Node.js systems</text>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M3 · PROTOCOL ENGINEERING · y_base=300
+       node cy=338  cat y=318  title y=340  chip y=314  chip_text y=325  impact y=358
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="338" r="5" fill="#010409" stroke="#d2a8ff" stroke-width="1.5"/>
+  <text x="360" y="318" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#d2a8ff" letter-spacing="2">PROTOCOL ENGINEERING</text>
+  <text x="360" y="340" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">gRPC &amp; ConnectRPC Transport Layers</text>
+  <rect x="400" y="314" width="34" height="16" rx="3" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="325" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#d2a8ff">gRPC</text>
+  <rect x="439" y="314" width="66" height="16" rx="3" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="445" y="325" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#d2a8ff">ConnectRPC</text>
+  <rect x="510" y="314" width="45" height="16" rx="3" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="516" y="325" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#d2a8ff">HTTP/2</text>
+  <rect x="560" y="314" width="56" height="16" rx="3" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="566" y="325" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#d2a8ff">Protobuf</text>
+  <rect x="621" y="314" width="29" height="16" rx="3" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="627" y="325" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#d2a8ff">Buf</text>
+  <rect x="655" y="314" width="61" height="16" rx="3" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="661" y="325" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#d2a8ff">Streaming</text>
+  <text x="400" y="358"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">Authored nestjs-connectrpc — tri-protocol transport strategy for NestJS</text>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M4 · BUILD SYSTEMS · y_base=380
+       node cy=418  cat y=398  title y=420  chip y=394  chip_text y=405  impact y=438
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="418" r="5" fill="#010409" stroke="#ffa657" stroke-width="1.5"/>
+  <text x="360" y="398" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#ffa657" letter-spacing="2">BUILD SYSTEMS</text>
+  <text x="360" y="420" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">Hermetic Monorepo Builds</text>
+  <rect x="400" y="394" width="39" height="16" rx="3" fill="#ffa657" fill-opacity="0.12" stroke="#ffa657" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="405" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#ffa657">Bazel</text>
+  <rect x="444" y="394" width="56" height="16" rx="3" fill="#ffa657" fill-opacity="0.12" stroke="#ffa657" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="450" y="405" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#ffa657">Starlark</text>
+  <rect x="505" y="394" width="77" height="16" rx="3" fill="#ffa657" fill-opacity="0.12" stroke="#ffa657" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="511" y="405" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#ffa657">Remote Cache</text>
+  <rect x="587" y="394" width="56" height="16" rx="3" fill="#ffa657" fill-opacity="0.12" stroke="#ffa657" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="593" y="405" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#ffa657">Polyglot</text>
+  <rect x="648" y="394" width="56" height="16" rx="3" fill="#ffa657" fill-opacity="0.12" stroke="#ffa657" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="654" y="405" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#ffa657">Hermetic</text>
+  <text x="400" y="438"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">Language-agnostic, reproducible builds across polyglot monorepo codebases</text>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M5 · OBSERVABILITY · y_base=460
+       node cy=498  cat y=478  title y=500  chip y=474  chip_text y=485  impact y=518
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="498" r="5" fill="#010409" stroke="#39d353" stroke-width="1.5"/>
+  <text x="360" y="478" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#39d353" letter-spacing="2">OBSERVABILITY</text>
+  <text x="360" y="500" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">Distributed Tracing &amp; Metrics Pipelines</text>
+  <rect x="400" y="474" width="83" height="16" rx="3" fill="#39d353" fill-opacity="0.12" stroke="#39d353" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="485" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#39d353">OpenTelemetry</text>
+  <rect x="488" y="474" width="34" height="16" rx="3" fill="#39d353" fill-opacity="0.12" stroke="#39d353" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="494" y="485" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#39d353">OTLP</text>
+  <rect x="527" y="474" width="45" height="16" rx="3" fill="#39d353" fill-opacity="0.12" stroke="#39d353" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="533" y="485" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#39d353">Traces</text>
+  <rect x="577" y="474" width="39" height="16" rx="3" fill="#39d353" fill-opacity="0.12" stroke="#39d353" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="583" y="485" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#39d353">Spans</text>
+  <rect x="621" y="474" width="50" height="16" rx="3" fill="#39d353" fill-opacity="0.12" stroke="#39d353" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="627" y="485" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#39d353">Metrics</text>
+  <rect x="676" y="474" width="72" height="16" rx="3" fill="#39d353" fill-opacity="0.12" stroke="#39d353" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="682" y="485" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#39d353">Propagation</text>
+  <text x="400" y="518"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">End-to-end distributed tracing across microservice boundaries</text>
+
+  <!-- ─────────────────────────────────────────────────────────────────
+       M6 · DEVELOPER TOOLING · y_base=540
+       node cy=578  cat y=558  title y=580  chip y=554  chip_text y=565  impact y=598
+       ───────────────────────────────────────────────────────────────── -->
+  <circle cx="380" cy="578" r="5" fill="#010409" stroke="#79c0ff" stroke-width="1.5"/>
+  <text x="360" y="558" text-anchor="end"
+    font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace"
+    font-size="9" fill="#79c0ff" letter-spacing="2">DEVELOPER TOOLING</text>
+  <text x="360" y="580" text-anchor="end"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="13" font-weight="700" fill="#e6edf3">Cross-Platform CLI &amp; Runtime Engineering</text>
+  <rect x="400" y="554" width="29" height="16" rx="3" fill="#79c0ff" fill-opacity="0.12" stroke="#79c0ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="406" y="565" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#79c0ff">Bun</text>
+  <rect x="434" y="554" width="93" height="16" rx="3" fill="#79c0ff" fill-opacity="0.12" stroke="#79c0ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="440" y="565" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#79c0ff">Native Binaries</text>
+  <rect x="532" y="554" width="61" height="16" rx="3" fill="#79c0ff" fill-opacity="0.12" stroke="#79c0ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="538" y="565" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#79c0ff">arm64/x64</text>
+  <rect x="598" y="554" width="29" height="16" rx="3" fill="#79c0ff" fill-opacity="0.12" stroke="#79c0ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="604" y="565" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#79c0ff">CLI</text>
+  <rect x="632" y="554" width="66" height="16" rx="3" fill="#79c0ff" fill-opacity="0.12" stroke="#79c0ff" stroke-opacity="0.45" stroke-width="0.75"/>
+  <text x="638" y="565" font-family="'SF Mono','Fira Code','Consolas','Courier New',monospace" font-size="9" fill="#79c0ff">Auto Setup</text>
+  <text x="400" y="598"
+    font-family="'Segoe UI',system-ui,-apple-system,sans-serif"
+    font-size="10" fill="#6e7681">scli — compiled TypeScript CLI shipping arm64/x64 macOS and Linux binaries</text>
+</svg>
