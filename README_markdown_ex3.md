@@ -28,8 +28,8 @@ Backend-focused software engineer with over a decade of shipping production syst
 ![Bazel](https://img.shields.io/badge/Bazel-43A047?style=flat-square&logo=bazel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-    </td>
-    <td valign="top" width="45%">
+</td>
+<td valign="top" width="45%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssilve1989&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
@@ -49,7 +49,7 @@ Backend-focused software engineer with over a decade of shipping production syst
   <img width="100%" src="https://streak-stats.demolab.com?user=ssilve1989&theme=default&hide_border=true" alt="GitHub streak">
 </picture>
 
-    </td>
+  </td>
   </tr>
 </table>
 
