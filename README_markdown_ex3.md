@@ -32,19 +32,19 @@ Backend-focused software engineer with over a decade of shipping production syst
     <td valign="top" width="45%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssilve1989&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ssilve1989&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ssilve1989&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssilve1989&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="GitHub stats">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssilve1989&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssilve1989&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ssilve1989&layout=compact&theme=default&hide_border=true&langs_count=6">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssilve1989&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ssilve1989&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ssilve1989&theme=github-dark-blue&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ssilve1989&theme=default&hide_border=true">
   <img width="100%" src="https://streak-stats.demolab.com?user=ssilve1989&theme=default&hide_border=true" alt="GitHub streak">
 </picture>
