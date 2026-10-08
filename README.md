@@ -10,7 +10,7 @@
 
 **About**
 
-Backend-focused software engineer with over a decade of shipping production systems. I specialize in **TypeScript/Node.js** microservices, **gRPC/ConnectRPC** transport layers, and **observability pipelines**.
+Backend-focused software engineer with over a decade of shipping production systems. I specialize in **systems architecture** for **distributed microservices**, designing **high-throughput, scalable** services and the **observability pipelines** that keep them reliable.
 
 **Tech Stack**
 
